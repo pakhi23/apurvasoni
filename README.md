@@ -24,7 +24,7 @@ I'm a passionate **Backend Developer** with 4+ years of experience building robu
 ### 📫 Connect with me
 
 - ✉️ Email: *[apurvasoni501@gmail.com]*
-- 🔗 LinkedIn: *[https://www.linkedin.com/in/apurva-soni/]* *(optional)*
+- 🔗 LinkedIn: *[https://www.linkedin.com/in/apurva-soni/]
 
 ---
 
